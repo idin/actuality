@@ -1,0 +1,5 @@
+.idea
+dist
+build
+actuality.egg-info
+.ipynb_checkpoints
